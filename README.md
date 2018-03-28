@@ -8,7 +8,7 @@
 
 This project was made possible thanks to the [Discord.Net Wrapper](https://github.com/RogueException/Discord.Net)
 
-###How to use:
+How to use:
 
 Prefix: %
 
