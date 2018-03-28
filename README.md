@@ -2,7 +2,7 @@
 
 ## A Discord bot that logs and archives conversations
 
-[Download Bot Source Code](https://github.com/erwijet/DiscordLogger/archive/master.zip -d)
+[Download Bot Source Code](https://github.com/erwijet/DiscordLogger/archive/master.zip)
 
 [Connect Bot to Discord](https://discordapp.com/oauth2/authorize?client_id=428590297082101780&scope=bot&permissions=75776)
 
